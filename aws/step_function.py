@@ -36,7 +36,7 @@ def get_execution_status_w_microarray(list_of_executions, chip_ids):
             entry = {
                 'chip_id': input['chip_id'],
                 'batch_barcode': input['batch_barcode'],
-                'startDate': exec['startDate'],
+                # 'startDate': exec['startDate'],
                 'status': exec["status"]
             }
             results.append(entry)
@@ -49,8 +49,8 @@ def get_execution_status_w_pcr(list_of_executions, batch_id):
         input = json.loads(exec['input'])
         if input['batch_id'] == batch_id and exec["status"] != 'ABORTED':
             result = {
-                'batch_id': input['batch_id'],
-                'startDate': exec['startDate'],
+                'batch_barcode': input['batch_id'],
+                # 'startDate': exec['startDate'],
                 'status': exec["status"]
             }
             break
@@ -62,12 +62,14 @@ def get_dry_lab_execution_status_for_microarray_batch():
     results = get_execution_status_w_microarray(list_of_executions, chip_ids)
     for res in results:
         print(f"CHIP_ID: {res['chip_id']} && STATUS {res['status']}")
+        print(res)
     return results
 
 def get_dry_lab_execution_status_for_pcr_batch(batch_id):
     list_of_executions = list_execution_function(pxStateMachine)
     result = get_execution_status_w_pcr(list_of_executions, batch_id)
     print(f"BATCH_NUMBER: {result['batch_id']} && STATUS {result['status']}")
+    print(result)
     return result
 
 def main():
