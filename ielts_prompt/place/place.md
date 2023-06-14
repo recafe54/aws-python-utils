@@ -95,11 +95,21 @@ And explain why you would like to visit for a short time
 36. Describe your favorite place in your house where you can relax
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
-
+You should say:
+Where it is
+What it is like
+What you enjoy doing there
+And explain why you feel relaxed at this place
 
 Park
-44. Describe a new development in the area where you live (e.g shopping
+44. Describe a new development in the area where you live
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
+
+You should say:
+What the development is
+When/where you noticed it
+How long it took to complete it
+And explain how you feel about it
 
 
 
@@ -107,9 +117,18 @@ Sword Lake
 40. Describe a place you visited that has been affected by air pollution ( or not clean)
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
-
+You should say:
+Where it is
+When you visited this place
+What kinds of pollution you saw there
+And explain how this place was affected
 
 Dream House
 17 Describe a perfect house you saw
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
+You should say:
+When and where you saw it
+What it looked like
+What special feature it had
+And explain why you liked it.
