@@ -34,8 +34,11 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 
 You should say:
 What it was
+- Soccer
 Where you did it
+- Nearby fields in the neighborhood
 Who you did it with
+- My friends
 And explain how you felt about it
 
 **Hit the gym**
@@ -45,9 +48,13 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 
 You should say:
 What it is
+- Taking cold shower in the morning
 How often do you do it
+- On a daily basis
 Is it easy to stick to that routine
+- Definity not, especially when I first tried it, almost gave up
 And explain how you feel about it
+- rejuvenating and invigorating
 
 
 **Scuba Dive**
@@ -56,7 +63,11 @@ And explain how you feel about it
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
+
 What it is
+- Scuba Dive
 Where you would like to try it
+- Phu Quoc Island
 How difficult it is
+
 And explain why you would like to try it
