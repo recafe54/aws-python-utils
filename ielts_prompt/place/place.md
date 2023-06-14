@@ -82,7 +82,15 @@ And explain why you feel it’s a noisy place
 Balcony (Coffee) (for reading)
 30. Describe a place you would like to visit for a short time
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
-
+You should say
+Where is that place
+- A balcony coffee shop, Old Quarter at the heart of Hanoi
+Whom you will go there with
+- Former colleagues
+What you will do there
+- Catching up 
+- Overlook the street from the balcony. Quite a view of Old Quarter
+And explain why you would like to visit for a short time
 
 36. Describe your favorite place in your house where you can relax
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
