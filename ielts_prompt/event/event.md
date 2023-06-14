@@ -1,6 +1,23 @@
 
 **# Event:**
 
+
+1. Describe a complaint that you made and you were satisfied the result
+
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
+
+You should say:
+
+When it happened
+- Year ago, while catching up with former colleagues in Ta Hien street
+
+Who you complained to
+- waitress
+
+What you complained about
+- Had been waiting for food and beverages for ages
+
+
 [**Vietnam Lunar New Year**](https://www.notion.so/Vietnam-Lunar-New-Year-3fdb407fb0784b1a9146e42762bacb0b?pvs=21)
 
 [6. Describe a traditional festival](https://www.notion.so/Vietnam-Lunar-New-Year-3fdb407fb0784b1a9146e42762bacb0b?pvs=21)
