@@ -57,7 +57,7 @@ And explain how you feel about it
 - rejuvenating and invigorating
 
 
-**Scuba Dive**
+**Pool Swimming**
 
 19. Describe a water sport you would like to try in the future.
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
@@ -65,9 +65,12 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 You should say:
 
 What it is
-- Scuba Dive
+- Pool Swimming
 Where you would like to try it
-- Phu Quoc Island
+- In nearby swimming pool in my neighborhood
 How difficult it is
+- I haven't learned to swim yet
 
 And explain why you would like to try it
+- My friends suggest me to have a go at it
+- Rejuvenating and invigorating
