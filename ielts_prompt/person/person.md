@@ -16,7 +16,7 @@ And explain why (you think) they are popular.
 - Common face on TV Show, named Shark Tank in Vietnam
 
 35. Describe a person you met at a party who you enjoyed talking with
-Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following q`uestions, ensure the answer in 200 to 250 words:
 
 You should say:
 - He is Shark Phu, Mr. Nguyen Xuan Phu
