@@ -15,6 +15,10 @@ Who you complained to
 What you complained about
 - Had been waiting for food and beverages for ages
 
+I'm going to talk about a dissatisfaction that was remedied to my liking. This incident was happened in a restaurant where a friend of mine celebrated his birthday last saturday evening.
+
+My friend had decided to book a table in a local chinese restaurant for the party. It was a small, family-run place, but it was teeming with tourists on that day.
+
 9. Describe a place you want to visit with you friends or family in the future
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
@@ -30,6 +34,7 @@ What to do in that place
 
 And explain why do you want to go 
 
+I'm going to describe a 
 
 12. Describe a new store/shop that just opened in your area.
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
@@ -119,8 +124,14 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 
 You should say:
 Where it is
+- Ta Hien street, a bustling street located in the heart of Hanoi's Old Quarter.
+
 When you visited this place
+- A couple of weeks ago
+
 What kinds of pollution you saw there
+- Smoke from charcoal grill, from motorbike, 
+
 And explain how this place was affected
 
 Dream House
