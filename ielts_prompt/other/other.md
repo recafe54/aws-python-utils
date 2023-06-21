@@ -1,6 +1,6 @@
 **#Other**
 
-**A weight loss supplement**
+**Betting Sites for Soccer matches**
 
 2. Describe an advertisement you don't like
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
@@ -39,7 +39,7 @@ What it is
 When you started concerning about this job
 - Heard about concepts of passive income
 Why you think it is interesting
-- Contribute values to community & make passive income - extremely flexible
+- Contribute values to community & make passive income - extremely flexible working hours 
 And explain how you like it 
 
 
