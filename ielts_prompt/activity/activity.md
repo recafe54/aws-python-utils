@@ -3,6 +3,7 @@
 **Soccer (Football in British English)**
 
 7. Describe a game you played in your childhood
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say
@@ -30,6 +31,7 @@ And explain why you like watching it.
 
 
 34. Describe a sport you enjoyed when you were young
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -44,6 +46,7 @@ And explain how you felt about it
 **Hit the gym**
 
 49. Describe a routine you have in your life that you enjoy
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -60,6 +63,7 @@ And explain how you feel about it
 **Pool Swimming**
 
 19. Describe a water sport you would like to try in the future.
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:

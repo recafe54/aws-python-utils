@@ -37,6 +37,7 @@ And explain why do you want to go
 I'm going to describe a 
 
 12. Describe a new store/shop that just opened in your area.
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -58,6 +59,7 @@ And explain why you like (to go to) this shop
 
 
 13. Describe a crowded place you have been to
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -71,6 +73,7 @@ And explain how you felt about this crowded place.
 
 
 45. Describe a noisy place you have been to
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 Follow Questions: Do you want to come back to this place again
@@ -86,6 +89,7 @@ And explain why you feel it’s a noisy place
 
 Balcony (Coffee) (for reading)
 30. Describe a place you would like to visit for a short time
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say
 Where is that place
@@ -98,6 +102,7 @@ What you will do there
 And explain why you would like to visit for a short time
 
 36. Describe your favorite place in your house where you can relax
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -108,6 +113,7 @@ And explain why you feel relaxed at this place
 
 Park
 44. Describe a new development in the area where you live
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -120,6 +126,7 @@ And explain how you feel about it
 
 Sword Lake
 40. Describe a place you visited that has been affected by air pollution ( or not clean)
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
