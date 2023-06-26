@@ -124,7 +124,8 @@ And explain how you feel about it
 
 
 
-Sword Lake
+Ta Hien street
+
 40. Describe a place you visited that has been affected by air pollution ( or not clean)
 
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
@@ -142,11 +143,20 @@ What kinds of pollution you saw there
 And explain how this place was affected
 
 Dream House
+
 17 Describe a perfect house you saw
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
 When and where you saw it
++ When I went back to my hometown
++ Just down the road, few blocks from my apartment back in hometown.
 What it looked like
++ Lot of Greens
++ 3 floors
++ Minimalism architecture
++ Huge gate
 What special feature it had
++ Roof top garden
+
 And explain why you liked it.

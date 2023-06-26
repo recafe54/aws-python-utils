@@ -5,7 +5,6 @@
 `1. Describe a complaint that you made and you were satisfied the result`
 
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
-
 You should say:
 
 When it happened
@@ -23,7 +22,7 @@ What you complained about
 [6. Describe a traditional festival](https://www.notion.so/Vietnam-Lunar-New-Year-3fdb407fb0784b1a9146e42762bacb0b?pvs=21)
 
 6. Describe a traditional festival
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 - Vietnamese Lunar New Year
@@ -40,6 +39,7 @@ And explain why this a festival or national holiday is important
 [22. Describe an occasion when you received incorrect information (sent me old post, forgot to double-check info)](https://www.notion.so/22-Describe-an-occasion-when-you-received-incorrect-information-sent-me-old-post-forgot-to-double-f379192a32634f45bce19449fd9f7ebf?pvs=21)
 
 22. Describe an occasion when you received incorrect information
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 - The address of the restaurant in Ta Hien street that I and my close friends went to 
@@ -55,7 +55,7 @@ And explain how you felt about it?
 [21. Describe an occasion when you got lost (looking for parking place)](https://www.notion.so/21-Describe-an-occasion-when-you-got-lost-looking-for-parking-place-0346fa4c273d493897ac5ce19a7a90a9?pvs=21) 
 
 21. Describe an occasion when you got lost
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 - Looking for parking place in Ta Hien Street
 
@@ -73,7 +73,7 @@ And explain how you found your way
 [8. Describe a time when you spend time with a child](https://www.notion.so/8-Describe-a-time-when-you-spend-time-with-a-child-6a0c6c0c0a674a79997c2f892be69141?pvs=21)
 
 8. Describe a time when you spend time with a child
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say
 
 Who the Child is
@@ -89,12 +89,12 @@ Why you spent time with him/her
 - I had to baby sit him while my parents and his parents were swimming in the pool,  since he was too scare of water.
 
 And explain what you did when you were together
-- Reading book for him.
+- teach him to tell the time
 
 [11. Describe a long car journey you went on](https://www.notion.so/11-Describe-a-long-car-journey-you-went-on-55b0dbecbdda4cd5b855afc641b35068?pvs=21)
 
 11. Describe a long car journey you went on
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 + Family Reunion
 
@@ -114,6 +114,9 @@ And explain why you went on that journey by car
 
 [23. Describe an exciting adventure you would like to go on](https://www.notion.so/23-Describe-an-exciting-adventure-you-would-like-to-go-on-23c25881cd564131b3a72070ae215505?pvs=21)
 
+23. Describe an exciting adventure you would like to go onPlease give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
+
 You should say:
 
 Where you would like to go to
@@ -131,6 +134,8 @@ And explain why it is a great adventure
 
 [27. Describe something that you did with one or more people](https://www.notion.so/27-Describe-something-that-you-did-with-one-or-more-people-db30fa77ffb1461aba904571ca4ebf27?pvs=21)
 
+27. Describe something that you did with one or more people
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 What it was
@@ -148,7 +153,7 @@ And explain why you did it with one or more people
 [**First day of primary school**](https://www.notion.so/First-day-of-primary-school-bebed0cc78db4ec7abe008d6279959e0?pvs=21)
 
 32. Describe the first day you went to school that you remember?
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say
 When it happened
 
@@ -170,9 +175,9 @@ And explain why you still remember the experience
 
 
 50. Describe a happy experience in your childhood that you remember well
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
- - Playing Pokemon game on PC with my best friend.
+ - Installing & Playing Pokemon game on PC with my best friend.
  
  When and where it happened
  - Back when I was in secondary school.
@@ -191,7 +196,7 @@ You should say:
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 33. Describe a time when you missed or were late for a meeting
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 What happened
 
@@ -211,7 +216,7 @@ And explain what happened later and how you felt about it
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 24. Describe an important decision
-
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 What the decision was
@@ -231,6 +236,20 @@ And explain why you made that decision
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 38. Describe a time when you taught a friend/relative something
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
+You should say:
+
+Who you taught
+- My cousin
+What you taught
+- How to tell the time
+How the result was
+- He was able to tell the time by himself, and wake me up in the morning of the next day during our family trip. Tks to him 
+And explain how you felt about the experience
+- Proud
+
+38. Describe a time when you taught a friend/relative something
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 Who you taught
@@ -244,9 +263,9 @@ And explain how you felt about the experience
 
 [39. Describe a piece of good news that you heard about someone you are familiar with](https://www.notion.so/39-Describe-a-piece-of-good-news-that-you-heard-about-someone-you-are-familiar-with-e291de5d574c43a6ba52b70132edecdc?pvs=21)
 
-Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 39. Describe a piece of good news that you heard about someone you are familiar with
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 What it was
@@ -264,11 +283,9 @@ And explain how you felt about it
 
 [43. Describe something you did that made you feel proud](https://www.notion.so/43-Describe-something-you-did-that-made-you-feel-proud-5c77a7296b7a4d0c81877cda556e8b7d?pvs=21)
 
-Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
-
-
 
 43. Describe something you did that made you feel proud
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say:
 
 What it was

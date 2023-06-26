@@ -1,6 +1,6 @@
 **# Object**
 
-**Macbook (Laptop)**
+**Facebook**
 
 3. Describe an invention that changed people's lives.
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
@@ -25,11 +25,13 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 You should say:
 
 What the gift was
-- A watch
+- A tailored suit
 Who you gave it to
 - My Dad
 Why you gave it
 - I never had enough money to buy him a decent gift.
+- Back then, Vietnamese couldn't afford to buy a suit
+- Want him to wear it on my wedding in the future
 And explain whether this person liked the gift or not
 
 
@@ -45,7 +47,7 @@ What you got it for
 How often you use it
 - On a daily basis
 And explain how you feel about it
-- Keyboard different from Window laptop I used to
+- Keyboard with different shortcut commands from Window laptop I used to
 
 42. Describe a time when someone give you something that you really interested in
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
@@ -53,7 +55,7 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 You should say:
 
 What it is
-- A podcast link
+- A podcast link about minimalism lifestyle
 
 How you got it
 - My friend share it with me
@@ -69,16 +71,19 @@ And explain how you felt about it
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
-
+- ChatGPT chat.openai.com
 How you found it
-- Youtube
+- All the rage
+- On the news
 What it is about
 - 
 How often you visit it
 - On a daily basic
 
 And explain why you often visit it
-- High quality content from great teachers like Jim Rohn
+- Use it to learn foreign language
+- Use it to prepare for my IELTS test
+- Use it to fix bugs in my code, to summarize book
 
 **Business Style**
 
@@ -104,7 +109,7 @@ You should say:
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
-
+- Atomic Habit/ How successful people think - John C. Maxwell
  What the book is about
  - Practice small habit to make a big difference
  Why you read it
@@ -126,6 +131,7 @@ Who you watched it with
 - Alone
 Why you didn’t like it
 - Its logic doesn't make sense
+- CGV Abusive 
 And explain why you felt disappointed
 
 **Ta Hien Street**
@@ -142,3 +148,4 @@ Where you had it
 Whom you had it with
 - My friends
 And explain why it was unusual
+- Fog fried which I never had it before
