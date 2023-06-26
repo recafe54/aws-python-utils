@@ -89,7 +89,7 @@ Why you spent time with him/her
 - I had to baby sit him while my parents and his parents were swimming in the pool,  since he was too scare of water.
 
 And explain what you did when you were together
-- Reading book for him.
+- teach him to tell the time
 
 [11. Describe a long car journey you went on](https://www.notion.so/11-Describe-a-long-car-journey-you-went-on-55b0dbecbdda4cd5b855afc641b35068?pvs=21)
 
@@ -114,6 +114,7 @@ And explain why you went on that journey by car
 
 [23. Describe an exciting adventure you would like to go on](https://www.notion.so/23-Describe-an-exciting-adventure-you-would-like-to-go-on-23c25881cd564131b3a72070ae215505?pvs=21)
 
+23. Describe an exciting adventure you would like to go on
 You should say:
 
 Where you would like to go to
@@ -130,6 +131,8 @@ How the adventure is
 And explain why it is a great adventure
 
 [27. Describe something that you did with one or more people](https://www.notion.so/27-Describe-something-that-you-did-with-one-or-more-people-db30fa77ffb1461aba904571ca4ebf27?pvs=21)
+
+27. Describe something that you did with one or more people
 
 You should say:
 
