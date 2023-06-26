@@ -1,7 +1,7 @@
 import os
 import boto3
 from pathlib import Path
-from utils.utils import Logger
+from utils.log import Logger
 import tarfile
 from botocore.exceptions import ClientError
 import logging
