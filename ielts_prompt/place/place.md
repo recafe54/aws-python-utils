@@ -93,6 +93,10 @@ Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon 
 You should say
 Where is that place
 - A balcony coffee shop, Old Quarter at the heart of Hanoi
+
+How did you find out about this place
+
+
 Whom you will go there with
 - Former colleagues
 What you will do there
