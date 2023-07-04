@@ -41,16 +41,17 @@ And explain why this a festival or national holiday is important
 
 22. Describe an occasion when you received incorrect information
 You should say:
-
-- The address of the restaurant in Ta Hien street that I and my close friends went to 
+it
+- Send a contract via email with wrong number in it
 
 What was the incorrect information?
--
+- Number of items on order
 When did it happen?
--
+- Couple of weeks
 How you found out the information was incorrect?
--
+- Double check as a habit
 And explain how you felt about it?
+- Luckily 
 
 [21. Describe an occasion when you got lost (looking for parking place)](https://www.notion.so/21-Describe-an-occasion-when-you-got-lost-looking-for-parking-place-0346fa4c273d493897ac5ce19a7a90a9?pvs=21) 
 
