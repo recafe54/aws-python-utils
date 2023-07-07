@@ -19,24 +19,9 @@ I'm going to talk about a dissatisfaction that was remedied to my liking. This i
 
 My friend had decided to book a table in a local chinese restaurant for the party. It was a small, family-run place, but it was teeming with tourists on that day.
 
-9. Describe a place you want to visit with you friends or family in the future
-Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
-
-You should say:
-
-Where do you want to go in the future
-- Ta Hien Street, Old Quarter at the heart of hanoi
-
-How do you think about
-
-What to do in that place
-- Grab a beer and unwind, catch up with friends
-
-And explain why do you want to go 
-
-I'm going to describe a 
 
 12. Describe a new store/shop that just opened in your area.
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -55,9 +40,25 @@ And explain why you like (to go to) this shop
 - It's good to know the origin of the food you eat is 
 - I started to cook for myself
 
+9. Describe a place you want to visit with you friends or family in the future
+Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
+You should say:
+
+Where do you want to go in the future
+- Ta Hien Street, Old Quarter at the heart of hanoi
+
+How do you think about
+
+What to do in that place
+- Grab a beer and unwind, catch up with friends
+
+And explain why do you want to go 
+
+I'm going to describe a 
 
 13. Describe a crowded place you have been to
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -71,6 +72,7 @@ And explain how you felt about this crowded place.
 
 
 45. Describe a noisy place you have been to
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 Follow Questions: Do you want to come back to this place again
@@ -86,10 +88,15 @@ And explain why you feel it’s a noisy place
 
 Balcony (Coffee) (for reading)
 30. Describe a place you would like to visit for a short time
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 You should say
 Where is that place
 - A balcony coffee shop, Old Quarter at the heart of Hanoi
+
+How did you find out about this place
+
+
 Whom you will go there with
 - Former colleagues
 What you will do there
@@ -98,8 +105,10 @@ What you will do there
 And explain why you would like to visit for a short time
 
 36. Describe your favorite place in your house where you can relax
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
+- sit by balcony and sip coffee
 You should say:
 Where it is
 What it is like
@@ -108,6 +117,7 @@ And explain why you feel relaxed at this place
 
 Park
 44. Describe a new development in the area where you live
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
@@ -121,6 +131,7 @@ And explain how you feel about it
 Ta Hien street
 
 40. Describe a place you visited that has been affected by air pollution ( or not clean)
+
 Please give me sample answer band (9) for IELTS speaking part 2, in IELTS simon style, given the following questions, ensure the answer in 200 to 250 words:
 
 You should say:
