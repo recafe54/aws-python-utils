@@ -4,16 +4,6 @@ import json
 # Read the Excel file
 df = pd.read_excel('kit-list-swap.xlsx')
 
-# # Extract a specific column into a list
-# old_barcode_lst = df['Barcode cũ'].tolist()
-# old_barcode_lst = [ str(barcode) if len(str(barcode)) >= 12 else '0'+str(barcode) for barcode in old_barcode_lst]
-# new_barcode_lst = df['Barcode mới'].tolist()
-# new_barcode_lst = [ str(barcode) if len(str(barcode)) >= 12 else '0'+str(barcode) for barcode in new_barcode_lst]
-
-# # Print the list
-# print(old_barcode_lst)
-# print(new_barcode_lst)
-
 # Convert each row of the DataFrame into a dictionary
 data = df.to_dict(orient='records')
 
