@@ -33,6 +33,7 @@ for dictionary in list_of_dicts["data"]:
             mapping_barcode_n_lid.append(entry)
             # print(entry)
             query = print(f"UPDATE lab_sample SET barcode='{entry['new_barcode']}' WHERE lid='{entry['lid']}'; ")
+            # uPDATE lab_sample SET barcode='xxxx' WHERE lid='aaaa'; 
     
 
 
