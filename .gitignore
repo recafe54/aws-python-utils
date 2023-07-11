@@ -1,3 +1,4 @@
 *.json
 *.xlsx
 *.pdf
+requests_local/
